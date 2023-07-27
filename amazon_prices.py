@@ -3,7 +3,8 @@ from selenium. webdriver. chrome. options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
-product_URL = "https://www.amazon.com/REDMAGIC-Android-Smartphone-Snapdragon-Unlocked/dp/B09XGXMY66/ref=sr_1_3?keywords=RedMagic%2B5G&sr=8-3&th=1"
+product_URL = "Paste an Amazon product here"
+# product_URL = "https://www.amazon.com/REDMAGIC-Android-Smartphone-Snapdragon-Unlocked/dp/B09XGXMY66/ref=sr_1_3?keywords=RedMagic%2B5G&sr=8-3&th=1"
 
 
 chrome_driver_path = "../Chrome Driver 115/chromedriver-linux64/chromedriver"
