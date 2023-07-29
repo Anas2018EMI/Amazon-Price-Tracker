@@ -7,7 +7,7 @@ product_URL = "Paste an Amazon product here"
 # product_URL = "https://www.amazon.com/REDMAGIC-Android-Smartphone-Snapdragon-Unlocked/dp/B09XGXMY66/ref=sr_1_3?keywords=RedMagic%2B5G&sr=8-3&th=1"
 
 
-chrome_driver_path = "../Chrome Driver 115/chromedriver-linux64/chromedriver"
+chrome_driver_path = "Paste here your web driver path"
 # brave_browser_path = '/usr/bin/brave-browser'
 
 chrome_options = Options()
